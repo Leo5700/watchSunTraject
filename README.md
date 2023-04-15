@@ -3,4 +3,5 @@
 
 ![Screenshot_2023_04_15_09_28_10_857_com_calsignlabs_apde_sketchpreview](https://user-images.githubusercontent.com/5260590/232190860-1737b157-b3be-4b41-8b37-a6d70a67ff4e.jpg)
 
+Как установить APDE на андроид, скопировать туда код и сделать живую заставку, см. видео https://youtu.be/8gSZ2mIJao8
 
